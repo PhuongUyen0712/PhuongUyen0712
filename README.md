@@ -18,8 +18,13 @@
   </a>
 </div>
   
+## 📊 Github Most Used Languages
 
-
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhuongUyen0712&theme=tokyonight&langs_count=8"/>
+  </a>
+</div>
 
 
 
